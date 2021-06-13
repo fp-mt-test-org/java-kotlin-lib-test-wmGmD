@@ -1,6 +1,7 @@
 {
-    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/90d4f849-aa62-4849-80ac-55ae71c3b274/template",
-    "access": "fp-mt",
+
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+
     "artifact_id": "java-kotlin-lib-test-wmGmD",
     "component_id": "java-kotlin-lib-test-wmGmD",
     "description": "This project was created from the template-java-kotlin-library template.",
